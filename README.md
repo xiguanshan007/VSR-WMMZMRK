@@ -270,6 +270,3 @@ LAMA_SUPER_FAST = False  # 保证效果
 解决方案：打开控制台输入`softwareupdate --install-rosetta` 安装rosetta
 
 
-## 赞助
-
-<img src="https://github.com/YaoFANGUK/video-subtitle-extractor/raw/main/design/sponsor.png" width="600">
